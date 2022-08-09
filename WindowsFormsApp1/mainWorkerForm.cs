@@ -75,7 +75,7 @@ namespace WindowsFormsApp1
             comboBox1.Items.Add("100");
             comboBox1.Items.Add("ДТ");
             comboBox1.Items.Add("Газ");
-            comboBox1.SelectedIndex = 0;
+            comboBox1.SelectedIndex = 0; //
 
         }
 
